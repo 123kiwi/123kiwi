@@ -1,4 +1,3 @@
-Hi, I’m Matt, a curious Python developer | Data Analyst | Machine Learning Enthusiast
 - 🤖 I’m looking to collaborate on interesting projects, and exploring the endless possibilities of code.
 - 🐍 If it's open source, count me in. 
 
