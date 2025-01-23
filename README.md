@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matt
-- 👀 I’m here to contribute as much as I can
-- 💞️ I’m looking to collaborate on interesting projects
+- 🐍 Curious Python developer | Data Analyst | Machine Learning Enthusiast
+- 🤖 I’m looking to collaborate on interesting projects, and exploring the endless possibilities of code. If it's open source, count me in. 
 
 <!---
 123kiwi/123kiwi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
