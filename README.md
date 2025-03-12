@@ -1,4 +1,4 @@
-<h2 align='center'>Hello,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px" width="15px">welcome to my Github profile</h2>
+<h2 align='center'>Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px" width="15px">, welcome to my Github profile</h2>
 
 
 - 🤖 I’m looking to collaborate on interesting projects, and exploring the endless possibilities of code.
