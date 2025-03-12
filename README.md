@@ -10,6 +10,7 @@
 You can click the Preview link to take a look at your changes.
 --->
 
+<!---
 <h2 align="left">Tech Stack</h2>
 <p align="left">
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/python.svg" alt="python" width="40" height="40"/>
@@ -36,3 +37,4 @@ You can click the Preview link to take a look at your changes.
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Microsoft_Copilot_Logo.svg" alt="Copilot Studio" width="60" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Prompt_Engineering.png" alt="Prompt Engineering" width="60" height="40"/>
 </p>
+--->
