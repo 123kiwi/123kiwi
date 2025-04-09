@@ -1,9 +1,8 @@
 <h2 align='center'>Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px" width="15px">, welcome to my Github profile</h2>
-
-
-- 🤖 I’m looking to collaborate on interesting projects, and exploring the endless possibilities of code.
-- 🐍 Curious about Python and Machine Learning. If it's open source, count me in.
-- 🥝 Check out my projects on my [portfolio page](https://123kiwi.github.io/portfolio/)
+ 
+- 🥝 Explore my projects on my [portfolio page](https://123kiwi.github.io/portfolio/).
+- 🎓 If you are curious, I keep track of my [training progress](https://github.com/123kiwi/Certifications).
+- 🤖 You can also see my work on my [Tableau portfolio](https://public.tableau.com/app/profile/matthew.selwyn/vizzes) and on [Kaggle](https://www.kaggle.com/matthewselwyn).
 
 <!---
 123kiwi/123kiwi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
