@@ -14,6 +14,10 @@
 
 [![](https://img.shields.io/badge/LinkedIn-36a9ae?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthewselwyn/)
 
+#### Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=123kiwi&layout=donut-vertical)](https://github.com/123kiwi/github-readme-stats)
+
 
 <details close>
  <summary> <b>Acknowledgements:</b> </summary>
