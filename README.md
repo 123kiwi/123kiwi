@@ -12,7 +12,7 @@
 
 #### Contact:
 
-[![](https://img.shields.io/badge/LinkedIn-36a9ae?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/matthewselwyn/])
+[![](https://img.shields.io/badge/LinkedIn-36a9ae?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthewselwyn/)
 
 
 <details close>
