@@ -23,6 +23,7 @@
  <summary> <b>Acknowledgements:</b> </summary>
   
   - [Skills badges](https://shields.io/)
+  - [ReadMe-Stats](https://github.com/anuraghazra/github-readme-stats)
   
 </details>
 
