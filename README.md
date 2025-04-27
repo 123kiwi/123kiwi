@@ -16,14 +16,14 @@
 
 #### Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=123kiwi&layout=donut-vertical)](https://github.com/123kiwi/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=123kiwi&layout=donut-vertical)
 
 
 <details close>
  <summary> <b>Acknowledgements:</b> </summary>
   
   - [Skills badges](https://shields.io/)
-  - [ReadMe-Stats](https://github.com/anuraghazra/github-readme-stats)
+  - [ReadMe-Stats](https://github-readme-stats.vercel.app)
   
 </details>
 
